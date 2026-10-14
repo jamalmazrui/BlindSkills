@@ -1,0 +1,8 @@
+title: Blind Skills
+description: A Directory of 84 Free Videos and Podcasts Teaching Nonvisual Skills
+author: Jamal Mazrui
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: 2..3
